@@ -11,4 +11,4 @@ In this portfolio, you'll find:
 - Reflections on challenges faced and solutions implemented
 - Examples of my work in UI/UX design, user testing, and mobile app development
 
-Thank you for visiting my portfolio.
+Thank you for visiting my portfolio <3
